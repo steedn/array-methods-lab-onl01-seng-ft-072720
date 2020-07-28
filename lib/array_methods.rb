@@ -24,5 +24,6 @@ array.last
 end
 
 def using_size(array)
-
+array = [1,2,3,4,5,6]
+array.size
 end

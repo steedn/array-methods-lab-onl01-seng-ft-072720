@@ -9,7 +9,7 @@ array.sort
 end
 
 def using_reverse(array)
-array = ["you", "got", "this", "array!"]
+array = ["you", "got", "this", "arrays!"]
 array.reverse
 end
 

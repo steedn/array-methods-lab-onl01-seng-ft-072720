@@ -19,7 +19,8 @@ array.first
 end
 
 def using_last(array)
-
+array = ["wow", "So like we have to use the exact same strings all over again huh", "arrays!"]
+array.last
 end
 
 def using_size(array)
